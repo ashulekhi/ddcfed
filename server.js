@@ -2,7 +2,7 @@ var Express = require('express');
 
 
 var server = Express();
-console.log(".... ", __dirname);
+
 
 server.use(Express.static(__dirname+'/public'))
 
