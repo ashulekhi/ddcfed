@@ -1,7 +1,7 @@
 .first {
 			border: 5px solid pink;
 			width: 200px;
-			height: 100px;
+			: 100px;
 
 		}
 		.second {
