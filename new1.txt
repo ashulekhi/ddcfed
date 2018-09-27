@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0072-FD28
+
+ Directory of C:\Users\training_D2.03.07\Desktop\ddcfed
+
+09/27/2018  09:16 AM    <DIR>          .
+09/27/2018  09:16 AM    <DIR>          ..
+09/27/2018  09:16 AM                 0 new1.txt
+09/27/2018  09:09 AM               293 server.js
+               2 File(s)            293 bytes
+               2 Dir(s)  407,541,846,016 bytes free
